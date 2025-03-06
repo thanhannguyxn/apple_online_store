@@ -1,4 +1,4 @@
-# custom-web-application
+# apple_store_application
 
 ## Project setup
 ```
